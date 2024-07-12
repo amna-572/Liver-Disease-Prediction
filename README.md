@@ -11,6 +11,11 @@ This project uses a Logistic Regression model to predict liver disease based on 
 - Integrated the model into a Flask web application.
 - Facilitates quick liver disease risk assessment for healthcare professionals and patients.
 
+## Files
+
+- liver.pkl: The trained Logistic Regression model.
+- liver_disease_prediction.ipynb: Jupyter Notebook containing the data preprocessing, model training, and evaluation steps.
+- 
 ## How to Run
 
 1. Clone the repository.
