@@ -3,6 +3,7 @@
 ## Overview
 
 This project uses a Logistic Regression model to predict liver disease based on patient medical data (age, gender, blood test results).
+### Dataset https://www.kaggle.com/datasets/uciml/indian-liver-patient-records
 
 ## Project Highlights
 
