@@ -15,10 +15,4 @@ This project uses a Logistic Regression model to predict liver disease based on 
 
 - liver.pkl: The trained Logistic Regression model.
 - liver_disease_prediction.ipynb: Jupyter Notebook containing the data preprocessing, model training, and evaluation steps.
-  
-## How to Run
 
-1. Clone the repository.
-2. Install dependencies: `pip install -r requirements.txt`.
-3. Run the app: `python app.py`.
-4. Open the provided URL in your browser.
